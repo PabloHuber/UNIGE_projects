@@ -1,2 +1,2 @@
 #in god i trust
-x=1+140
+x=1+14
